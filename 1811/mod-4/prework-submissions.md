@@ -28,7 +28,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Elizabeth Asbell
 
-* [Node Server Tutorial](https://github.com/easbell/mod4-prework-node)
+* [Node Server Tutorial]()
 * [Annotated Express server file]()
 * [Promise Practice Exercises]()
 
